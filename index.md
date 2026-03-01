@@ -113,6 +113,23 @@ Currently, I am actively exploring the potential of **Large Language Models (LLM
 
 <div class="paper-card">
   <div class="paper-image">
+    <img src="/images/ale.png" alt="MuSC" />
+  </div>
+  <div class="paper-content">
+    <h3 class="paper-title">MuSC: Improving Complex Instruction Following with Multi-granularity Self-Contrastive Training</h3>
+    <p class="paper-authors">
+      Hui Huang, Jiaheng Liu, Yancheng He, Shilong Li, Bing Xu, Conghui Zhu, Muyun Yang, Tiejun Zhao
+    </p>
+    <span class="paper-conference">ACL2025</span>
+    <p class="paper-abstract">
+      We propose a Multi-granularity Self-Contrastive Training (MuSC) framework, to improve the complex instruction alignment without relying on a stronger model.
+    </p>
+    <p><a href="https://aclanthology.org/2025.acl-long.523/" class="paper-link">[paper]</a>  <a href="https://github.com/HuihuiChyan/MuSC" class="paper-link">[code]</a></p>
+  </div>
+</div>
+
+<div class="paper-card">
+  <div class="paper-image">
     <img src="/images/deltabench.png" alt="deltabench" />
   </div>
   <div class="paper-content">
